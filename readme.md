@@ -9,6 +9,9 @@ https://github.com/syntaxshiva/GoogleDveloperPryagraj---Asha-Health-Managment
 
 https://9632t5rc-8000.inc1.devtunnels.ms/dev-ui/
 
+#user and password is 
+shivam shivam
+
 
 🏥 ASHA AI Platform — Project Overview
 
